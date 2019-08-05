@@ -1,7 +1,7 @@
 
 def main():
-    a = 2000
-    b = 400
+    a = 2437
+    b = 875
     x = a
     y = b
     while x != y:
